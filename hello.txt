@@ -1,2 +1,2 @@
 hi,im vinothini 
-i'm learning.
+i'm learning Git and GitHub.
